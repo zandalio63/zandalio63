@@ -1,16 +1,24 @@
-## Hi there 👋
+## 技术栈  I'm Juan Se
+## Web Developer 👨‍💻
 
-<!--
-**zandalio63/zandalio63** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+```javascript
+const sbtn63 = {
+  code: [Javascript, HTML, CSS, Rust, Python, SQL],
+  frameworks: [Django, Axum, FastAPI, Tailwind]
+}
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+```text
+
+💻 Operating System: 
+Linux                  
+█████████████████████████   100.0%
+
+```
+
+<h3 align="center">Top langs</h3>
+<hr><br>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zandalio63&langs_count=10&theme=tokyonight&layout=compact" alt="zandalio63 :: Top Langs" /></p>
