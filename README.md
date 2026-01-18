@@ -1,9 +1,9 @@
-## 技术栈  I'm Juan Se
+## 技术栈  I'm Zandalio
 ## Web Developer 👨‍💻
 
 
 ```javascript
-const sbtn63 = {
+const zandalio63 = {
   code: [Javascript, HTML, CSS, Rust, Python, SQL],
   frameworks: [Django, Axum, FastAPI, Tailwind]
 }
