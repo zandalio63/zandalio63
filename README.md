@@ -6,6 +6,7 @@
 const zandalio63 = {
   code: [Javascript, HTML, CSS, Rust, Python, SQL],
   frameworks: [Django, Axum, FastAPI, Tailwind]
+Automation: [ Vba, Office Script, Power Query, GitHub Actions]
 }
 ```
 
