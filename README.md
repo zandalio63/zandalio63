@@ -5,8 +5,8 @@
 ```javascript
 const zandalio63 = {
   code: [Javascript, HTML, CSS, Rust, Python, SQL],
-  frameworks: [Django, Axum, FastAPI, Tailwind]
-Automation: [ Vba, Office Script, Power Query, GitHub Actions]
+  frameworks: [Django, Axum, FastAPI, Tailwind],
+automation: [ Vba, Office Script, Power Query, GitHub Actions]
 }
 ```
 
